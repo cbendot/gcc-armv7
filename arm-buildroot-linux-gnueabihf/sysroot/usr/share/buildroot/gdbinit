@@ -1,0 +1,2 @@
+add-auto-load-safe-path /builds/bootlin/toolchains-builder/build/armv7-eabihf--glibc--bleeding-edge-2021.11-1/arm-buildroot-linux-gnueabihf/sysroot
+set sysroot /builds/bootlin/toolchains-builder/build/armv7-eabihf--glibc--bleeding-edge-2021.11-1/arm-buildroot-linux-gnueabihf/sysroot
